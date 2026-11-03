@@ -1,0 +1,1 @@
+{"name":"r8-market","owner":{"name":"benign"},"plugins":[{"name":"r8a","source":"./plugins/a","description":"benign","strict":false,"skills":["./skills/s"]}]}
